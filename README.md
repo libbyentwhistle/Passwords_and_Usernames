@@ -1,5 +1,10 @@
 # Passwords and Usernames
 
+## Project Overview
+
+This project explores usernames and passwords, including the random generation of both usernames and passwords by employing the random function in Python. The next steps for the project will be to create a **password strength checker
+** and then to implement a **database** using SQL that stores usernames with their corresponding password and other account information. 
+
 ## About this Project - Random Password Generator
 
 This project explores, using Python, password generation following standard rules for passwords given on websites namely: 
