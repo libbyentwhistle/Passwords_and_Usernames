@@ -31,3 +31,15 @@ This code works in a similar way to the random password generator, meaning that 
 However, this code differs from the password generator, because unlike passwords, usernames have to be unique to each individual user. This code ensures that this is possible, firstly by storing a list of already generated usernames and once a new username has been generated, adding this username to the list. The code also makes use of a file that stores usernames. This ensures that across multiple runs the same username will not be generated twice. 
 
 The code can be accessed here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1actgtQQgnFgWN6u8UUdnrQwP4dRYPRx7)
+
+
+## About this Project - Password Strength Checker
+
+This code utilises if statements to determine how strong a password is and then output this to the user. The strength of the password is based on the following properties of the password: 
+- length of password
+- if password has uppercase character
+- if password has lowercase character
+- if password has a number
+- if password has a special character
+
+The code can be accessed here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GzzRKvKvqleQ2ECHScFnMa7_Ay9xPl0-#)
