@@ -56,3 +56,11 @@ This code utilises the base for the password strength checker and uses what is m
 It utalises functions to suggest improvements to passwords if they weren't strong enough and to generate a new password if the previous password was deemed to be too weak. 
 
 This code can be accessed here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UrDu5F9h4nT6vnDGxnVOe_YygtpwH-hQ#scrollTo=l4ftM0AGKZW-)
+
+By using the code from the strong password generator, which has the following requirements to generate passwords: 
+- Uppercase character
+- Lowercase character
+- A number
+- A special character
+- At least eight characters long
+It ensures that the new password generated would be strong enough, even without running this new password through the checker again. 
