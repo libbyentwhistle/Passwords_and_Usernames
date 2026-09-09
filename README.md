@@ -6,7 +6,7 @@ This project explores usernames and passwords, including the random generation o
 The project also has a password strength checker which was implemented using python. 
 
 ### Next Step for the Project
-- Implement database using **SQL** that identifies details of user based of username
+- Create a visual strength bar for passwords. 
 
 ## About this Project - Random Password Generator
 
@@ -46,3 +46,13 @@ This code utilises if statements to determine how strong a password is and then 
 - if password has a special character
 
 The code can be accessed here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GzzRKvKvqleQ2ECHScFnMa7_Ay9xPl0-#)
+
+This code was inspired by the following pieces of work: https://dev.to/immah/building-a-password-strength-checker-in-python-47om and https://medium.com/@adrian-gonzalez/building-a-password-strength-checker-in-python-and-what-i-learned-along-the-way-74e8de74301b. 
+
+
+## About this Project - How to Improve Passwords
+
+This code utilises the base for the password strength checker and uses what is missing in order to increase the strength of the password is better. 
+It utalises functions to suggest improvements to passwords if they weren't strong enough and to generate a new password if the previous password was deemed to be too weak. 
+
+This code can be accessed here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UrDu5F9h4nT6vnDGxnVOe_YygtpwH-hQ#scrollTo=l4ftM0AGKZW-)
