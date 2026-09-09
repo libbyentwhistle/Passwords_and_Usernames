@@ -63,4 +63,5 @@ By using the code from the strong password generator, which has the following re
 - A number
 - A special character
 - At least eight characters long
+
 It ensures that the new password generated would be strong enough, even without running this new password through the checker again. 
